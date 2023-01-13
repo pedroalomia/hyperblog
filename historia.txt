@@ -6,6 +6,10 @@ Anita Platzi es una persona que contribuye a este proyecto open source y nació 
 
 gsdfgsdfgsdfgsfd
 
+<<<<<<< HEAD
 qweqweqweqw
+=======
+fhjklhjklhjklhjklhkj
+>>>>>>> 714f377 (Ex 1)
 
 Mañana nos enfocaremos en su vida laboral
